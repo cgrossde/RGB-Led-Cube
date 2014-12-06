@@ -1,6 +1,8 @@
 
 # 4x4x4 RGB LED Cube
 
+Read about it [in my blog](http://chris-labs.de/electronics/arduino/2014/08/22/rgb-cube-part-1-planning.html).
+
 These are the schematics and the necessary code to build and control a 4x4x4 RGB LED Cube. It was a project of mine in early 2014 to get a better understanding of digital electronics. The design might not be perfect but I learned a lot along the way.
 
 Beware there are some **minor changes missing** in the schematics which were applied after the board was already etched:
